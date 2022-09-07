@@ -25,3 +25,4 @@ class Model(torch.nn.Module):
         pred = self.linear_2(x)
 
         return pred
+    

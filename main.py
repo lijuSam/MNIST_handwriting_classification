@@ -136,3 +136,8 @@ for i in range(1, 11):
     plt.title(results[i][1].item())
     plt.imshow(img)
 plt.show()
+
+
+
+
+print("Hello")
